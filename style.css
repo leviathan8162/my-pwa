@@ -9,6 +9,7 @@ html, body {
   display: flex;
   justify-content: center;   /* centers horizontally */
   align-items: center;       /* centers vertically */
+  text-align: center;
   background: #ffffff;
   color: #222;
   font-family: sans-serif;
